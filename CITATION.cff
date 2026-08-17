@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Diagnostic Sales Architecture"
+type: software
+authors:
+  - family-names: Kragnes
+    given-names: Ronald S.
+    orcid: "https://orcid.org/[ORCID]"
+version: "1.0.0"
+date-released: 2024-01-01
+license: "Proprietary"
+url: "https://github.com/[username]/diagnostic-sales-architecture"
+repository-code: "https://github.com/[username]/diagnostic-sales-architecture"
+keywords:
+  - sales-architecture
+  - diagnostic-sales
+  - process-mapping
+  - stewardship-sales
+  - value-over-price
